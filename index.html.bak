@@ -23,7 +23,7 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Julien Fixary</h1>
-								<p>Hello friends!</p>
+								<p>Postdoc at the <a href="https://mcgt.um6p.ma/">Moroccan Center for Game Theory</a> (Université Mohammed VI Polytechnique)</p>
 							</div>
 						</div>
 						<nav>
@@ -31,7 +31,7 @@
 								<li><a href="#research">Research</a></li>
 								<li><a href="#teaching">Teaching</a></li>
 								<li><a href="#contact">Contact</a></li>
-								<!--<li><a href="#elements">Elements</a></li>-->
+								<!-- <li><a href="#elements">Elements</a></li> -->
 							</ul>
 						</nav>
 					</header>
@@ -43,24 +43,30 @@
 							<article id="research">
 								<h2 class="major">Research</h2>
 								<!-- <span class="image main"><img src="images/pic01.jpg" alt="" /></span> -->
-								<h3> Publications </h3>
-								<p> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304406822000933">Network Formation and Pairwise Stability: A New Oddness Theorem</a>, Philippe Bich, Julien Fixary, Journal of Mathematical Economics, 2022 (<a href="attached_files/bich_fixary_jme_2022.pdf"> Full paper </a>)</p>
-								<p> <a href="https://www.sciencedirect.com/science/article/abs/pii/S089982562400054X">Oddness of the Number of Nash Equilibria: The Case of Polynomial Payoff Functions</a>, Philippe Bich, Julien Fixary, Games and Economic Behavior, 2024 (<a href="attached_files/bich_fixary_geb_2024.pdf"> Full paper </a>)</p>
-								<h3> Working Papers </h3>
-								<p>Top secret</p>
+								<h3>Publications</h3>
+								<ul>
+								<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304406822000933">Network Formation and Pairwise Stability: A New Oddness Theorem</a>, Philippe Bich, Julien Fixary, Journal of Mathematical Economics, 2022.
+								<br />
+								<a href="attached_files/bich_fixary_jme_2022.pdf" class="button small">Full paper</a></p></li>
+								<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S089982562400054X">Oddness of the Number of Nash Equilibria: The Case of Polynomial Payoff Functions</a>, Philippe Bich, Julien Fixary, Games and Economic Behavior, 2024.
+								<br />
+								<a href="attached_files/bich_fixary_geb_2024.pdf" class="button small">Full paper</a></p></li>
+								</ul>
+								<h3>Working papers</h3>
+								<p>Some cool stuff</p>
 							</article>
 
 						<!-- Teaching -->
 							<article id="teaching">
 								<h2 class="major">Teaching</h2>
 								<!-- <span class="image main"><img src="images/pic02.jpg" alt="" /></span> -->
-								<p>Page in construction</p>
+								<p>Page under construction</p>
 							</article>
 
 						<!-- Contact -->
 							<article id="contact">
 								<h2 class="major">Contact</h2>
-								<p> julien.fixary@um6p.ma </p>
+								<p>julien.fixary@um6p.ma</p>
 							</article>
 
 						<!-- Elements -->
@@ -326,3 +332,4 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 	</body>
 </html>
+ 
