@@ -29,7 +29,6 @@
 						<nav>
 							<ul>
 								<li><a href="#research">Research</a></li>
-								<li><a href="#teaching">Teaching</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!-- <li><a href="#elements">Elements</a></li> -->
 							</ul>
@@ -53,14 +52,7 @@
 								<a href="attached_files/bich_fixary_geb_2024.pdf" class="button small">Full paper</a></p></li>
 								</ul>
 								<h3>Working papers</h3>
-								<p>Some cool stuff</p>
-							</article>
-
-						<!-- Teaching -->
-							<article id="teaching">
-								<h2 class="major">Teaching</h2>
-								<!-- <span class="image main"><img src="images/pic02.jpg" alt="" /></span> -->
-								<p>Page under construction</p>
+								<p>Some cool stuff...</p>
 							</article>
 
 						<!-- Contact -->
@@ -315,7 +307,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p><i>...</i></p>
+						<p>&laquo <i>Je rêve d'un jour où l'égoïsme ne régnera plus dans les sciences</i> [...]. &raquo (E. Galois).</p>
 					</footer>
 
 			</div>
